@@ -1,0 +1,45 @@
+body {
+	font-family: 'Josefin Sans', sans-serif;
+}
+
+.container {
+	width: auto;
+	padding: 10%;
+	text-align: justify;
+	size: 2rem;
+	line-height: 1.5;
+	height: auto;
+}
+
+#about {
+	background-color: rgba(0, 255, 0, .3);
+	padding-top: 10%;
+	height: auto;
+
+}
+
+#training {
+	background-color: rgba(255, 0, 0, .3);
+	height: auto;
+	padding-left:20%;
+}
+
+#projects {
+	background-color: rgba(0, 0, 255, .3);
+}
+
+.header {
+	text-align: center;
+	vertical-align: center;
+	padding: 3%;
+	background-color: rgba(255, 255, 255, .4);
+	position: fixed;
+	width: 100%;
+	height: auto;
+	z-index: 10;
+}
+
+footer {
+	text-align: center;
+	padding: 5%;
+}
